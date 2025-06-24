@@ -8,7 +8,7 @@ About Repo
     Programming Assignment 6
     Version 1.0
 
-Setup
+# Setup
 
     1. Download (and unzip) repository.
     
