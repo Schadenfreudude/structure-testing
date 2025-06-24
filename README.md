@@ -9,6 +9,7 @@ About Repo
     Version 1.0
 
 Setup
+
     1. Download (and unzip) repository.
     
     2. Locate directory of repo and open a terminal in that working directory.
