@@ -23,6 +23,8 @@ Two Java programs to test Stack and LinkedList functionality.
 
     4. To run program: Run command line "java [file name]", such as "java Stack_Tester.java" 
 
+    5. To run JavaDocs: Run command line "javadoc [file name]", such as "javadoc Stack_Tester.java" 
+
 # LinkedList_Tester
 
     Version 1.0
