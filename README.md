@@ -10,7 +10,9 @@ About Repo
 
 Setup
     1. Download (and unzip) repository.
+    
     2. Locate directory of repo and open a terminal in that working directory.
+    
     3. Run program: Run command line "java [file name]", such as "java Stack_Tester.java"
 
 LinkedList_Tester
